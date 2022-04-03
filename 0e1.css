@@ -25,7 +25,7 @@ body {
 /* Variables */
 :root {
     --color-text-default: #042b25 !important;
-    --color-bg-default: #fff1cf !important;
+    --color-bg-default: #f7f6f5 !important;
     --grid-color: var(--color-text-default);
     --grid: 2px solid var(--grid-color);
     --grid-color-2nd: 2px solid var(--color-bg-default);
